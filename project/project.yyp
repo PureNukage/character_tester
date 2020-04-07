@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "de80a1ca-23c7-466b-8909-9d4aa83a9318",
+            "Value": {
+                "id": "a48fbee2-b481-41b2-b8ee-2ff4433fe311",
+                "resourcePath": "objects\\sprites\\sprites.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4174c56-415f-462f-b37e-e695ba68a7e9",
             "Value": {
                 "id": "94edcf8b-2814-45fe-87b9-0957b41c3984",

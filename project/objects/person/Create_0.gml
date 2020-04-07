@@ -1,19 +1,13 @@
-hair = -1
-head = -1
-body = -1
-hand = -1
-legs = -1
+hair = 0
+head = 0
+body = 0
+hand = 0
+legs = 0
 
-hair = s_hair_1
-head = s_head_1
-body = s_body
-hand = s_hand
-legs = s_legs
-
-hair_color = -1
-head_color = -1
-body_color = -1
-legs_color = -1
+hair_color = 0
+head_color = 0
+body_color = 0
+legs_color = 0
 
 hair_colors = []
 head_colors = []
@@ -39,8 +33,3 @@ legs_colors[0] = make_color_rgb(98,98,98)
 legs_colors[1] = make_color_rgb(63,15,0)
 legs_colors[2] = make_color_rgb(10,1,65)
 legs_colors[3] = make_color_rgb(32,20,37)
-
-hair_color = 0
-head_color = 0
-body_color = 0
-legs_color = 0
